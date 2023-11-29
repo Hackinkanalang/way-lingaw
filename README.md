@@ -7,4 +7,4 @@ trippings lang
 3. Handsome
 
 ## Actual pic of carlo
-![baby carlo](C:\Users\HP\Downloads\pogi.jpg)
+[![baby carlo](C:\Users\HP\Downloads\pogi.jpg)]
